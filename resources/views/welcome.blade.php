@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Coming soon ~
+                    Coming soon~
                 </div>	
 		<div style="text-align:right; padding-right:30px">——Yuatom</div>
             </div>
